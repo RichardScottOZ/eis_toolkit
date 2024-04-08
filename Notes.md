@@ -8,4 +8,5 @@ Sagemaker install
 - pip install/dist/eis_wheelnamehere.whl
 
 # must install
+- https://medium.com/decathlondigital/making-jupyter-kernels-remanent-in-aws-sagemaker-a130bc47eab7
 - python -m ipykernel install --user --name your_kernel_name --display-name your_kernel_display_name
