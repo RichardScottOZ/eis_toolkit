@@ -6,3 +6,6 @@ Sagemaker install
 - conda install -c conda-forge gdal
 - poetry build
 - pip install/dist/eis_wheelnamehere.whl
+
+# must install
+- python -m ipykernel install --user --name your_kernel_name --display-name your_kernel_display_name
